@@ -262,7 +262,7 @@ if __name__ == "__main__":
         },
         "Result 11": {
             "header": ["Teacher", "Student", "Average Grade"],
-            "rows": select_11("Богдан Гречаник", "Тетяна Байда")
+            "rows": select_11("Богдан Гречаник", "Лариса Атаманюк")
         },
         "Result 12": {
             "header": ["Group", "Fullname", "Subject", "Grade", "Date"],
